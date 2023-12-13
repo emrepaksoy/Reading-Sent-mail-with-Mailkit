@@ -1,0 +1,6 @@
+@ReadingEmail_HostAddress = http://localhost:5160
+
+GET {{ReadingEmail_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
